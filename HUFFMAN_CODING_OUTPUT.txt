@@ -1,0 +1,6 @@
+Character [f] Code = 0
+Character [c] Code = 100
+Character [d] Code = 101
+Character [a] Code = 1100
+Character [b] Code = 1101
+Character [e] Code = 111

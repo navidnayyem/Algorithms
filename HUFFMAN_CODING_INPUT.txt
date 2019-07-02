@@ -1,0 +1,6 @@
+Character 0: a	 Frequency of a: 5
+Character 1: b	 Frequency of b: 9
+Character 2: c	 Frequency of c: 12
+Character 3: d	 Frequency of d: 13
+Character 4: e	 Frequency of e: 16
+Character 5: f	 Frequency of f: 45
